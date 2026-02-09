@@ -1,0 +1,11 @@
+ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
+1,task,d718ce7,closed,Task A,,Tyler7819,8-Feb,8-Feb,8-Feb,
+2,task,ac2da42,closed,Task B,,Tyler7819,8-Feb,8-Feb,8-Feb,
+3,task,ef6dbd4,closed,Task C,,Tyler7819,8-Feb,8-Feb,8-Feb,
+4,task,6fd41cd,closed,Create issuetracker.csv,,zhangdeniel11,8-Feb,8-Feb,8-Feb,Initial issue tracker file creation
+5,task,062988f,closed,Task C,,zhangdeniel11,8-Feb,8-Feb,8-Feb,
+6,task,ee973e3,closed,Task B,,zhangdeniel11,8-Feb,8-Feb,8-Feb,
+7,task,6097a68,closed,Dhanush Task A,,Dhanuschat,4-Feb,4-Feb,4-Feb,
+8,task,2002065,closed,Task A,,zhangdeniel11,4-Feb,4-Feb,4-Feb,
+9,task,31e9219,closed,Initial commit,,zhangdeniel11,4-Feb,4-Feb,4-Feb,Repository initialization
+
